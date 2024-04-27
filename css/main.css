@@ -1,0 +1,49 @@
+/*Jericho corporation MAIN CSS*/
+/*Login page*/
+body {
+	margin: 0;
+	padding: 0;
+}
+*{
+	box-sizing: border-box;
+}
+* a {
+	text-decoration: none;
+}
+@font-face {
+	font-family:FontAwesome;
+	src: url(libs/font-awesom/fonts/FontAwesome.otf);
+}
+.login {
+	background: url("images/nature/Nature (59).jpg");
+	border-radius: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 140px;
+	width: 50%;
+	padding: 20px 0;
+}
+.login h1 {
+	color: #f4f4f4; font-weight: bolder;font-size:3em;/* text-shadow: 5px 3px 6px #000; */}
+.carousel {
+	background-color: #274357; margin-top: 20px; }
+.carousel .item img {
+	margin: 0 auto; /*Align slide image horizotally*/
+}
+.bs-exemple {
+	margin: 20px; }
+.fixed-top {
+	position: fixed; top:0px; }
+.main {width: 70%; float:left; }
+.aside { width: 28%; float:right; }
+.table-xml table { height: 300px; overflow-y: scroll;  }
+.demo-content {
+    padding: 15px;
+    font-size: 18px;
+    min-height: 300px;
+    background-color: #dbdfe5;
+    margin-bottom: 10px;
+}
+.demo-content.bg-alt{
+    background: #abb1b8;
+}

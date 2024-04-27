@@ -1,0 +1,16 @@
+CREATE TABLE rapport_payment(
+
+	rapport_payment_id INT(11) NOT NULL AUTO_INCREMENT,
+	payment_id INT(11) NOT NULL,
+	manquant DECIMAL(12,2) NOT NULL,
+	excedant DECIMAL(12,2) NOT NULL,
+	description TEXT,
+	PRIMARY KEY (rapport_payment_id) 
+);
+ALTER TABLE rapport_payment ADD FOREIGN KEY (payment_id) REFERENCES payments (payment_id);
+
+
+TRUNCATE TABLE rapport_payment;
+DELETE FROM payments;
+ALTER TABLE payments AUTO_INCREMENT 1;
+UPDATE records SET recupere = 0;

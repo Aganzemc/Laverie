@@ -1,0 +1,11 @@
+CREATE TABLE logins (
+	login_id INT(11) NOT NULL AUTO_INCREMENT,
+	user_id INT(11) NOT NULL,
+	login_key TEXT NOT NULL,
+	login_start DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP(),
+	login_end DATETIME  DEFAULT NULL,
+	login_statu BOOLEAN NOT NULL DEFAULT 1,
+	PRIMARY KEY (login_id)
+);
+
+ALTER TABLE logins ADD FOREIGN KEY (user_id) REFERENCES users(id);

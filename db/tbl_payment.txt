@@ -1,0 +1,10 @@
+CREATE TABLE payments(
+	payment_id INT(11) NOT NULL AUTO_INCREMENT,
+	montant DECIMAL(12,2) NOT NULL,
+	user_id INT(11) NOT NULL,
+	record_id INT(11) NOT NULL,
+	payment_date DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP(),
+	PRIMARY KEY(payment_id)
+);
+ALTER TABLE payments ADD FOREIGN KEY (user_id) REFERENCES users (id);
+ALTER TABLE payments ADD FOREIGN KEY (record_id) REFERENCES records (record_id);

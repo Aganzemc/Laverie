@@ -1,0 +1,287 @@
+{
+    "last_update": "2023_12_05 16:37:40",
+    "infos": {
+        "depot": [
+            {
+                "client_id": 4,
+                "nom": "Moise Ngoy",
+                "prenom": "Moise",
+                "adresse": "Bukavu\/Ndandere",
+                "date_nais": "2000-10-15",
+                "record_id": 15,
+                "user_id": 2,
+                "nombre_hab": 5,
+                "date_depot": "2022-09-15",
+                "date_recupe": "2022-09-17",
+                "recupere": 0,
+                "reg_date": "2022-09-15 10:40:59"
+            },
+            {
+                "client_id": 4,
+                "nom": "Moise Ngoy",
+                "prenom": "Moise",
+                "adresse": "Bukavu\/Ndandere",
+                "date_nais": "2000-10-15",
+                "record_id": 14,
+                "user_id": 2,
+                "nombre_hab": 3,
+                "date_depot": "2022-09-15",
+                "date_recupe": "2022-09-17",
+                "recupere": 0,
+                "reg_date": "2022-09-15 07:13:39"
+            }
+        ],
+        "date_recuperation": [
+            {
+                "client_id": 4,
+                "nom": "Moise Ngoy",
+                "prenom": "Moise",
+                "adresse": "Bukavu\/Ndandere",
+                "date_nais": "2000-10-15",
+                "record_id": 14,
+                "user_id": 2,
+                "nombre_hab": 3,
+                "date_depot": "2022-09-15",
+                "date_recupe": "2022-09-17",
+                "recupere": 0,
+                "reg_date": "2022-09-15 07:13:39"
+            },
+            {
+                "client_id": 4,
+                "nom": "Moise Ngoy",
+                "prenom": "Moise",
+                "adresse": "Bukavu\/Ndandere",
+                "date_nais": "2000-10-15",
+                "record_id": 15,
+                "user_id": 2,
+                "nombre_hab": 5,
+                "date_depot": "2022-09-15",
+                "date_recupe": "2022-09-17",
+                "recupere": 0,
+                "reg_date": "2022-09-15 10:40:59"
+            }
+        ],
+        "infos_recuperer": [
+            {
+                "client_id": 1,
+                "nom": "Kish Jonathan",
+                "prenom": "Jonathan",
+                "adresse": "Bukavu",
+                "date_nais": "2000-12-15",
+                "record_id": 1,
+                "user_id": 2,
+                "nombre_hab": 3,
+                "date_depot": "2022-08-13",
+                "date_recupe": "2022-08-15",
+                "recupere": 1,
+                "reg_date": "2022-08-13 02:15:23"
+            },
+            {
+                "client_id": 2,
+                "nom": "Joseph Kalebe",
+                "prenom": "Kalebe",
+                "adresse": "Bukavu",
+                "date_nais": "2010-12-16",
+                "record_id": 3,
+                "user_id": 1,
+                "nombre_hab": 4,
+                "date_depot": "2022-08-13",
+                "date_recupe": "2022-08-15",
+                "recupere": 1,
+                "reg_date": "2022-08-13 08:21:48"
+            },
+            {
+                "client_id": 1,
+                "nom": "Kish Jonathan",
+                "prenom": "Jonathan",
+                "adresse": "Bukavu",
+                "date_nais": "2000-12-15",
+                "record_id": 2,
+                "user_id": 2,
+                "nombre_hab": 3,
+                "date_depot": "2022-08-13",
+                "date_recupe": "2022-08-15",
+                "recupere": 1,
+                "reg_date": "2022-08-13 02:21:13"
+            },
+            {
+                "client_id": 3,
+                "nom": "Benjamin Bahati",
+                "prenom": "Bahati",
+                "adresse": "bukavu",
+                "date_nais": "2005-02-05",
+                "record_id": 4,
+                "user_id": 2,
+                "nombre_hab": 10,
+                "date_depot": "2022-08-14",
+                "date_recupe": "2022-08-16",
+                "recupere": 1,
+                "reg_date": "2022-08-14 01:53:23"
+            },
+            {
+                "client_id": 2,
+                "nom": "Joseph Kalebe",
+                "prenom": "Kalebe",
+                "adresse": "Bukavu",
+                "date_nais": "2010-12-16",
+                "record_id": 5,
+                "user_id": 2,
+                "nombre_hab": 15,
+                "date_depot": "2022-08-14",
+                "date_recupe": "2022-08-16",
+                "recupere": 1,
+                "reg_date": "2022-08-14 01:58:04"
+            },
+            {
+                "client_id": 1,
+                "nom": "Kish Jonathan",
+                "prenom": "Jonathan",
+                "adresse": "Bukavu",
+                "date_nais": "2000-12-15",
+                "record_id": 7,
+                "user_id": 2,
+                "nombre_hab": 3,
+                "date_depot": "2022-08-15",
+                "date_recupe": "2022-08-17",
+                "recupere": 1,
+                "reg_date": "2022-08-15 12:59:34"
+            },
+            {
+                "client_id": 2,
+                "nom": "Joseph Kalebe",
+                "prenom": "Kalebe",
+                "adresse": "Bukavu",
+                "date_nais": "2010-12-16",
+                "record_id": 6,
+                "user_id": 2,
+                "nombre_hab": 19,
+                "date_depot": "2022-08-15",
+                "date_recupe": "2022-08-17",
+                "recupere": 1,
+                "reg_date": "2022-08-15 01:15:46"
+            },
+            {
+                "client_id": 3,
+                "nom": "Benjamin Bahati",
+                "prenom": "Bahati",
+                "adresse": "bukavu",
+                "date_nais": "2005-02-05",
+                "record_id": 8,
+                "user_id": 2,
+                "nombre_hab": 3,
+                "date_depot": "2022-08-15",
+                "date_recupe": "2022-08-17",
+                "recupere": 1,
+                "reg_date": "2022-08-15 14:00:44"
+            },
+            {
+                "client_id": 1,
+                "nom": "Kish Jonathan",
+                "prenom": "Jonathan",
+                "adresse": "Bukavu",
+                "date_nais": "2000-12-15",
+                "record_id": 9,
+                "user_id": 2,
+                "nombre_hab": 4,
+                "date_depot": "2022-08-16",
+                "date_recupe": "2022-08-18",
+                "recupere": 1,
+                "reg_date": "2022-08-16 03:00:27"
+            },
+            {
+                "client_id": 1,
+                "nom": "Kish Jonathan",
+                "prenom": "Jonathan",
+                "adresse": "Bukavu",
+                "date_nais": "2000-12-15",
+                "record_id": 10,
+                "user_id": 2,
+                "nombre_hab": 5,
+                "date_depot": "2022-08-18",
+                "date_recupe": "2022-08-20",
+                "recupere": 1,
+                "reg_date": "2022-08-18 07:46:10"
+            },
+            {
+                "client_id": 3,
+                "nom": "Benjamin Bahati",
+                "prenom": "Bahati",
+                "adresse": "bukavu",
+                "date_nais": "2005-02-05",
+                "record_id": 11,
+                "user_id": 2,
+                "nombre_hab": 4,
+                "date_depot": "2022-08-27",
+                "date_recupe": "2022-08-29",
+                "recupere": 1,
+                "reg_date": "2022-08-27 01:27:00"
+            },
+            {
+                "client_id": 1,
+                "nom": "Kish Jonathan",
+                "prenom": "Jonathan",
+                "adresse": "Bukavu",
+                "date_nais": "2000-12-15",
+                "record_id": 12,
+                "user_id": 2,
+                "nombre_hab": 6,
+                "date_depot": "2022-08-27",
+                "date_recupe": "2022-08-29",
+                "recupere": 1,
+                "reg_date": "2022-08-27 02:23:17"
+            },
+            {
+                "client_id": 2,
+                "nom": "Joseph Kalebe",
+                "prenom": "Kalebe",
+                "adresse": "Bukavu",
+                "date_nais": "2010-12-16",
+                "record_id": 13,
+                "user_id": 2,
+                "nombre_hab": 9,
+                "date_depot": "2022-09-01",
+                "date_recupe": "2022-09-03",
+                "recupere": 1,
+                "reg_date": "2022-09-01 21:44:01"
+            }
+        ],
+        "agent": [
+            {
+                "date": "2022-09-15",
+                "user_id": 2
+            },
+            {
+                "date": "2022-09-01",
+                "user_id": 2
+            },
+            {
+                "date": "2022-08-27",
+                "user_id": 2
+            },
+            {
+                "date": "2022-08-18",
+                "user_id": 2
+            },
+            {
+                "date": "2022-08-16",
+                "user_id": 2
+            },
+            {
+                "date": "2022-08-15",
+                "user_id": 2
+            },
+            {
+                "date": "2022-08-14",
+                "user_id": 2
+            },
+            {
+                "date": "2022-08-13",
+                "user_id": 2
+            },
+            {
+                "date": "2022-08-13",
+                "user_id": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "last_update": "31-08-2022 01:54:13",
+    "input": [
+        {
+            "input": "303.86",
+            "month": "8",
+            "year": "2022"
+        },
+        {
+            "input": "19.15",
+            "month": "9",
+            "year": "2022"
+        }
+    ],
+    "output": [
+        {
+            "output": "110.00",
+            "month": "8",
+            "year": "2022"
+        },
+        {
+            "output": "19.00",
+            "month": "9",
+            "year": "2022"
+        }
+    ],
+    "capital": [
+        {
+            "month": "8",
+            "year": "2022",
+            "input": "303.86",
+            "output": "110.00",
+            "capital": 193.86,
+            "status": 1,
+            "precise": "Benefice",
+            "msg_type": "success"
+        },
+        {
+            "month": "9",
+            "year": "2022",
+            "input": "19.15",
+            "output": "19.00",
+            "capital": 0.14999999999999858,
+            "status": 1,
+            "precise": "Benefice",
+            "msg_type": "success"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+CREATE TABLE depenses (
+	depense_id INT(11) NOT NULL AUTO_INCREMENT,
+	designetion TEXT NOT NULL DEFAULT("non definie"),
+	montant DECIMAL(12,2) NOT NULL,
+	date_reg DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP(),
+	PRIMARY KEY (depense_id )
+);
